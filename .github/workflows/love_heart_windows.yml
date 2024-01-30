@@ -18,5 +18,5 @@ jobs:
         with:
           python_ver: '3.12'
           spec: 'ren.py'
-          upload_exe_with_name: 'love_heart'
+          upload_exe_with_name: '人生模拟器'
           options: --onefile, --name "love_heart", --windowed, 
